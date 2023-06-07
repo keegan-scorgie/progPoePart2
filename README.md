@@ -20,3 +20,8 @@ If you select 5 you will be given a chance to erase a recipe and start over, sta
 and then enter a new one.
 
 If you select 0 the program will exit.
+
+
+What i improved based on lecturer feedback:
+I fixed the scaling recipe class as it didnt work previously and i also fixed the resetScaling class as it also did not work in my part 1
+I also cleaned up the presentation of the program by starting it off with a menu, instead of jumping straight ahead into creating a recipe.
